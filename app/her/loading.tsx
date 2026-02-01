@@ -7,5 +7,5 @@ export default function Loading() {
         <SkeletonCard key={i} />
       ))}
     </main>
-  );
+  )
 }
